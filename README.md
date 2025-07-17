@@ -40,8 +40,6 @@ This repository provides an exploratory data analysis (EDA) of the `enhanced_oll
   - Ranges from 2K tokens (small models) to 128K+ tokens (large models).
 - **Quantization Support:**
   - Some models support quantization for efficient inference on limited hardware.
-- **Benchmarks:**
-  - Performance benchmarks are available for select models, indicating their capabilities on tasks like HellaSwag, BoolQ, PIQA, MMLU, etc.
 
 ## Example Usage (Python)
 ```python
